@@ -61,7 +61,8 @@ fun LoginScreen(
             modifier
                 .fillMaxWidth()
                 .padding(start = 24.dp, end = 24.dp)
-                .size(50.dp)) {
+                .size(50.dp)
+        ) {
             Text(text = "Daftar")
         }
 
